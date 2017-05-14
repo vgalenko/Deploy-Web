@@ -1,4 +1,4 @@
-// 'user strict'
+// 'user strict';
 //
 // function userName() {
 //   var user = prompt('What is your name?');
